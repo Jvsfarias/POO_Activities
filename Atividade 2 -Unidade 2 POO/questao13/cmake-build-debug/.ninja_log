@@ -1,0 +1,5 @@
+# ninja log v5
+0	282	6760548674466489	build.ninja	964365681dfe53a6
+6	356	6760548678634897	CMakeFiles/questao13.dir/IntegerSet.cpp.obj	380ac1ead52a06d8
+1	665	6760548681733934	CMakeFiles/questao13.dir/main.cpp.obj	2cac30d8d7fba6dc
+665	835	6760548683388089	questao13.exe	8e31524c399b1ced

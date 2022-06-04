@@ -1,0 +1,8 @@
+# ninja log v5
+0	668	6760534408277291	CMakeFiles/questao_8.dir/main.cpp.obj	b50168e6848065fb
+18	729	6760534408896370	CMakeFiles/questao_8.dir/Retangulo.cpp.obj	397ab47491ac4778
+730	905	6760534410591530	questao_8.exe	d85a05ac3373b69f
+3	385	6760541053108790	CMakeFiles/questao_8.dir/Retangulo.cpp.obj	397ab47491ac4778
+385	579	6760541054884021	questao_8.exe	d85a05ac3373b69f
+3	352	6760541271351239	CMakeFiles/questao_8.dir/Retangulo.cpp.obj	397ab47491ac4778
+353	510	6760541272888931	questao_8.exe	d85a05ac3373b69f

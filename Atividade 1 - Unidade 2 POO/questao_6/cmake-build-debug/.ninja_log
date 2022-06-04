@@ -1,0 +1,5 @@
+# ninja log v5
+1	388	6760532866495096	build.ninja	52db8ccfe0e35ad7
+7	387	6760532871092115	CMakeFiles/questao_6.dir/main.cpp.obj	3a4849a5a1aceea9
+0	420	6760532871421226	CMakeFiles/questao_6.dir/Time.cpp.obj	e5d099379d0558c1
+420	593	6760532873116687	questao_6.exe	444867d76a203140

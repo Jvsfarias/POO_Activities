@@ -1,0 +1,3 @@
+C:/Users/juvit/OneDrive/Área de Trabalho/Faculdade/POO/Atividade 1 - Unidade 2 POO/questao_8/cmake-build-debug/CMakeFiles/questao_8.dir
+C:/Users/juvit/OneDrive/Área de Trabalho/Faculdade/POO/Atividade 1 - Unidade 2 POO/questao_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juvit/OneDrive/Área de Trabalho/Faculdade/POO/Atividade 1 - Unidade 2 POO/questao_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

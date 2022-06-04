@@ -1,0 +1,5 @@
+# ninja log v5
+0	287	6760544489358568	build.ninja	13096f415d714ff8
+0	350	6760544493377819	CMakeFiles/questao11.dir/main.cpp.obj	e458f6f1253c3664
+7	698	6760544496865376	CMakeFiles/questao11.dir/ArrayList.cpp.obj	72ce43f827abd14e
+699	869	6760544498530928	questao11.exe	b7dadef25b6097fa

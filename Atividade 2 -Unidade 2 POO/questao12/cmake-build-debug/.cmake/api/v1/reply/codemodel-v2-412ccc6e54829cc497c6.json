@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "questao12",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "questao12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-questao12-Debug-5b5f581009497db755a7.json",
+					"name" : "questao12",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/juvit/OneDrive/\u00c1rea de Trabalho/Faculdade/POO/Atividade 2 -Unidade 2 POO/questao12/cmake-build-debug",
+		"source" : "C:/Users/juvit/OneDrive/\u00c1rea de Trabalho/Faculdade/POO/Atividade 2 -Unidade 2 POO/questao12"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
